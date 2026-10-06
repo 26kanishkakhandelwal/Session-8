@@ -1,83 +1,124 @@
-# 🧪 SESSION-08 — Testing and Debugging with AI
+# 🐍 Session 8 — Python Practice
 
-This repository contains the **Classwork (CW)** and **Homework (HW)** completed as part of Session 08.
+Welcome to **Session 8** of my Python programming journey.
 
-The main focus of this session is understanding **software testing and debugging with the help of AI**, while developing the ability to identify, understand, and fix problems independently.
+This repository contains the programs and practice work completed during this session. It is focused on turning Python concepts into working code through regular practice, experimentation, and problem-solving.
+
+---
+
+## ✨ About This Session
+
+Learning programming is not just about remembering syntax.
+
+This session is about writing code, testing different approaches, understanding errors, and gradually developing the ability to solve problems independently.
+
+Each program in this repository represents a small step towards building stronger programming fundamentals.
+
+---
+
+## 📚 What You'll Find Here
+
+The repository contains Python programs created as part of my practice sessions, including:
+
+* 🐍 Python programming exercises
+* 🔢 Logic-based problems
+* ⌨️ Input and output programs
+* 🔀 Conditional logic
+* 🔁 Iterative problem solving
+* 🧩 Functions and reusable logic
+* 📦 Working with Python data structures
+* 🧠 Problem-solving exercises
+* 📝 Practice questions and implementations
+
+---
+
+## 🔍 How I Approach a Problem
+
+For every programming problem, I try to follow a simple process:
+
+```text
+        Understand
+            ↓
+      Identify the Logic
+            ↓
+       Write the Steps
+            ↓
+      Implement in Python
+            ↓
+       Test the Code
+            ↓
+     Fix & Improve
+```
+
+The goal isn't just to make a program work.
+
+The goal is to understand **why it works**.
+
+---
 
 ## 📂 Repository Structure
 
 ```text
-SESSION-08/
+Session-8/
 │
-├── CW/
-│   └── Classwork
+├── 📄 Python Programs
+├── 📁 Practice Files
+├── 📁 Exercises
 │
-├── HW/
-│   └── Homework
-│
-└── README.md
+└── 📄 README.md
 ```
 
-## 🎯 Learning Objectives
+The structure may grow as more programs and exercises are added.
 
-Through this session, the focus is on:
+---
 
-- Understanding software testing
-- Identifying bugs and errors
-- Debugging programs systematically
-- Using AI to assist with debugging
-- Understanding why an error occurs instead of blindly applying a fix
-- Testing solutions after making changes
-- Improving problem-solving and code-quality skills
+## ▶️ Running the Programs
 
-## 🤖 Using AI for Testing & Debugging
-
-AI can be used as a **debugging assistant**, not simply as a source of ready-made solutions.
-
-A useful workflow is:
-
-```text
-Write Code
-    ↓
-Run / Test
-    ↓
-Find Error
-    ↓
-Understand the Error
-    ↓
-Ask AI for a Hint / Explanation
-    ↓
-Apply the Fix
-    ↓
-Test Again
-```
-
-The goal is to understand the **root cause** of a problem and learn how to prevent similar errors in the future.
-
-## 📁 Contents
-
-### 📘 CW — Classwork
-
-Contains the exercises and practical work completed during the Session 08 class.
-
-### 📝 HW — Homework
-
-Contains the homework tasks and submissions completed for Session 08.
-
-## 🛠️ Technologies
-
-The repository may contain exercises using technologies and programming concepts covered during the session, including:
-
-- C++
-- HTML
-- CSS
-- JavaScript
-- Debugging tools
-- AI-assisted development
-
-## 🚀 How to Use
-
-Clone the repository:
+### Step 1 — Clone the repository
 
 ```bash
-git clone https://github.com/mohitjangid187
+git clone https://github.com/26kanishkakhandelwal/Session-8.git
+```
+
+### Step 2 — Open the project
+
+```bash
+cd Session-8
+```
+
+### Step 3 — Run a Python program
+
+```bash
+python filename.py
+```
+
+If `python` doesn't work on your system, try:
+
+```bash
+python3 filename.py
+```
+
+---
+
+## 🛠️ Tools Used
+
+| Tool       | Purpose         |
+| ---------- | --------------- |
+| 🐍 Python  | Programming     |
+| 💻 VS Code | Development     |
+| 🔗 Git     | Version Control |
+| 🐙 GitHub  | Code Repository |
+
+---
+
+## 🎯 What I'm Building Through These Sessions
+
+These practice sessions are helping me develop:
+
+* Better programming logic
+* Stronger problem-solving skills
+* Confidence with Python
+* Cleaner coding habits
+* Debugging skills
+* Consistency in learning
+* A foundation for
